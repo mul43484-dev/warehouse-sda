@@ -1,0 +1,22 @@
+{
+  "name": "Sistem Pengelolaan Material Gudang & Logbook",
+  "short_name": "GudangLog",
+  "description": "Sistem Logbook Inventaris Material Gudang Mobile-First",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
